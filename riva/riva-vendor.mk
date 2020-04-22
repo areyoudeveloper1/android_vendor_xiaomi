@@ -2300,13 +2300,13 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libgpustats \
     libsdm-disp-vndapis \
-    QtiTelephonyService \
-    datastatusnotification \
-    uceShimService \
-    CneApp \
-    IWlanService \
-    TimeService \
-    PowerOffAlarm \
-    dpmserviceapp \
-    ims \
-    qcrilmsgtunnel
+#    uceShimService \
+#    IWlanService 
+#    QtiTelephonyService \
+#    datastatusnotification \
+#    CneApp \
+#    TimeService \
+#    PowerOffAlarm \
+#    dpmserviceapp \
+#    ims \
+#    qcrilmsgtunnel
