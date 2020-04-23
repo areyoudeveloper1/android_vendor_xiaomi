@@ -2281,14 +2281,15 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libgpustats \
     libsdm-disp-vndapis \
-    QtiTelephonyService \
-    datastatusnotification \
-    uceShimService \
-    CNEService \
-    dpmserviceapp \
-    ims \
-    qcrilmsgtunnel \
-    PowerOffAlarm \
-    TimeService \
     libts_detected_face_hal \
     libts_face_beautify_hal
+#    QtiTelephonyService \
+#    datastatusnotification \
+#    uceShimService \
+#    CNEService \
+#    dpmserviceapp \
+#    ims \
+#    qcrilmsgtunnel \
+#    PowerOffAlarm \
+#    TimeService \
+    
